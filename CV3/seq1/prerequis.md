@@ -41,7 +41,7 @@ la solution contre les indesirable est la prophylaxie (prevenir plutot que gueri
 ## 3. les besoins des cultures
 
 ![les besoins des cultures](./imgs/besoin_culture.jpg)
-![les besoins des cultures](https://github.com/thrichert/BPREA/blob/master/besoin_culture.jpg?raw=true)
+![les besoins des cultures](https://github.com/thrichert/BPREA/blob/master/CV3/seq1/imgs/besoin_culture.jpg?raw=true)
 - les racines
 	- des nutriment de qualites
 	- de l'eau
