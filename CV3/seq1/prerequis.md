@@ -56,6 +56,7 @@ la solution contre les indesirable est la prophylaxie (prevenir plutot que gueri
 
 ![la gestion classique](./imgs/gestion_classique_plante.png)
 ![la gestion classique](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/gestion_classique_plante.png?raw=true)
+
 ## 5. vers un maraichage AB +
 
 ![maraichage bio](./imgs/maraichage_bio.jpg)
