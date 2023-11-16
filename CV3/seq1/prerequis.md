@@ -55,7 +55,7 @@ la solution contre les indesirable est la prophylaxie (prevenir plutot que gueri
 ## 4. la maniere classique de gerer
 
 ![la gestion classique](./imgs/gestion_classique_plante.png)
-![la gestion classique](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/gestion_classique_plante.jpg?raw=true)
+![la gestion classique](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/gestion_classique_plante.png?raw=true)
 ## 5. vers un maraichage AB +
 
 ![maraichage bio](./imgs/maraichage_bio.jpg)
@@ -69,12 +69,12 @@ la solution contre les indesirable est la prophylaxie (prevenir plutot que gueri
 ## 7. Pour resumer
 
 ![pour resumer](./imgs/resume.jpg)
-![pour resumer](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/resumer.jpg?raw=true)
+![pour resumer](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/resume.jpg?raw=true)
 
 ## 8. Fertilisation & amendements
 
-![fertilisation et amendements](./imgs/fertilisation_amendements.png)
-![fertilisation et amendements](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/fertilisation_amendements.png?raw=true)
+![fertilisation et amendements](./imgs/Fertilisation_amendements.png)
+![fertilisation et amendements](https://github.com/thrichert/BPREA/blob/master/CV3/imgs/Fertilisation_amendements.png?raw=true)
 
 # II. L'organisation en maraichage
 
